@@ -1,0 +1,24 @@
+h1 {
+  color: #15FF0B;
+}
+body {
+  background-color: #0D26FF;
+}
+.list-item {
+  font-family: helvetica;
+}
+
+#css-item {
+  color: #5179ba;
+}
+
+#goal-list {
+  border-style: solid;
+  border-color: #15FF0B;
+  width: 30%;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: #15FF0B;
